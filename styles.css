@@ -1,0 +1,51 @@
+body {
+    background-color:paleturquoise;
+}
+.mw-50 {
+    background-color:coral;
+    height: 300;
+    margin-top: 20px;
+    padding: 40px 0 40px 0;
+    text-align: center;
+}
+.form-control {
+    text-align: right;
+   
+}
+.col-auto {
+    padding: 10px
+}
+.btn {
+    background-color: firebrick;
+    border-color: firebrick;
+   
+}
+.btn:hover {
+    background-color:indianred;
+    border-color: firebrick;
+    
+}
+/*
+.btn:focus {
+    background-color:rgb(92, 205, 149);
+    
+}
+.btn:visited {
+    background-color:rgb(117, 17, 17);
+    
+}
+.btn:active {
+    background-color:rgb(158, 17, 104);
+    
+}
+*/
+
+h1 {
+    color:bisque;
+    font-size: 4.rem;
+}
+
+p {
+    color:firebrick;
+    font-size: 1.rem;
+}
